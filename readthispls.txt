@@ -1,0 +1,3 @@
+This was just a little git command line test done in Ubuntu Budgie 18.04, I'm VERY new to git so that's why I have so many test repos, I'll probably just create another, more serious, GitHub account.
+
+Also, you can have my Lua text adventure game if you want, I don't want it anymore. Thank you!
