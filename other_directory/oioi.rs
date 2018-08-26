@@ -1,0 +1,3 @@
+pub fn idc_anymore_lol() {
+	// ...
+}
